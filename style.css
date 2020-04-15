@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(198,201,206);
+}
+.card{
+    width: 250px;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: white;
+    font-family: sans-serif;
+}
+img{
+    width: 100%;
+}
+.card h1{
+    font-size: 20px;
+}
+.card p{
+    font-weight: 200;
+}
+.card em{
+    font-size: 13px;
+    font-weight: 100;
+}
+.cards-container{
+    display: flex;
+}
